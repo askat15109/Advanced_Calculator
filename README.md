@@ -1,6 +1,6 @@
 # Casio-Style Scientific Calculator
 A professional scientific calculator built using **Python** and **PyQt6** with a sleek Casio-style UI.
-
+![Calculator Screenshot](assets/calculator.png)
 ## 🚀 Features
 ✅ Basic operations (+, -, *, /)  
 ✅ Trigonometry (`sin`, `cos`, `tan`)  
